@@ -1,5 +1,5 @@
-y=int(input())
-def hello(a,y):
- for i in range(0,y):
+d=int(input())
+def hello(a,n):
+  for i in range(0,n):
    print(a)
-hello("Hello",y)
+hello("Hello",n)
