@@ -1,5 +1,5 @@
 d=int(input())
-def hello(a,n):
-  for i in range(0,n):
+def hello(a,d):
+  for i in range(0,d):
    print(a)
-hello("Hello",n)
+hello("Hello",d)
